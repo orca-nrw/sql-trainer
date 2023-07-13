@@ -51,8 +51,8 @@ Dieses Repository enthält Software unter [MIT-Lizenz][MIT] und Content unter [C
 [HSD]: https://www.hs-duesseldorf.de/
 [TH Köln]: https://www.th-koeln.de/
 [EDB]: https://edb2.gm.th-koeln.de/index
-[NF-Trainer]: https://github.com/orca-nrw/sql-trainer/tree/main
-[NF-Trainer GH Pages]: https://orca-nrw.github.io/sql-trainer/
+[SQL-Trainer]: https://github.com/orca-nrw/sql-trainer/tree/main
+[SQL-Trainer GH Pages]: https://orca-nrw.github.io/sql-trainer/
 [EILD.nrw]: https://www.eild.nrw/
 [EILD.nrw GitHub]: https://github.com/EILD-nrw
 [ORCA.nrw]: https://www.orca.nrw/
